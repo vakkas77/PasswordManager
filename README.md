@@ -7,3 +7,6 @@ Navigation button on the right side bottom panel gives the user to view record o
 left side panel for data manipulation.
 How to run this project: copy the project folder in c: drive.
 execute the PWDMgr.py file.
+While running this app, it asks for application's user name and password
+username:home
+password:123456
