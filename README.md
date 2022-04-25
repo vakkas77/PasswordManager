@@ -5,7 +5,7 @@ To add new record, click add button and after entering a record, click update bu
 while insrting record, you can cancel the task in between.
 Navigation button on the right side bottom panel gives the user to view record one by one.
 left side panel for data manipulation.
-How to run this project: copy the project folder in c: drive.
+How to run this project: copy the all the files in c:\project\ folder.
 execute the PWDMgr.py file.
 While running this app, it asks for application's user name and password
 username:home
