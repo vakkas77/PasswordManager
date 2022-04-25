@@ -10,3 +10,4 @@ execute the PWDMgr.py file.
 While running this app, it asks for application's user name and password
 username:home
 password:123456
+if you want to change app's username and password, opne validate.dat file and change.
